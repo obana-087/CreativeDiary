@@ -1,0 +1,27 @@
+<div class="main posts-index">
+  <div class="diary">みんなの日記</div>
+  <div class="posts-search">
+    <p>キーワード検索</p>
+    <%= form_tag(posts_index_path, :method => "get") do %>
+      <%= text_field_tag :search %>
+      <%= submit_tag "Search" ,:content => nil ,class: "button is-info"%> 
+    <% end %> 
+  </div>
+  <div class="posts-top">
+    <div class="posts-card">
+      <% @posts.each do |post| %>
+        <div class="posts-index-item posts-top-screen">
+          <div class="post-left">
+            <img src="<%= "/user_images/#{post.user.image_name}" %>">
+          </div>
+          <div class="post-right post-right-two">
+            <div class="post-user-name">
+              <%= link_to(post.user.name, "/users/#{post.user.id}") %>
+            </div>
+            <%= link_to(post.content, "/posts/#{post.id}") %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
