@@ -1,5 +1,7 @@
 # README
 
+CreativeDiary(日記をつけるアプリ)
+
 <img width="1439" alt="f77f14a0-55f6-42bb-a76b-25932e8d4e26" src="https://user-images.githubusercontent.com/71686577/104153643-3505e000-5426-11eb-9d99-df939bae6c4e.png">
 
 【アプリの概要】
