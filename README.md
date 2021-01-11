@@ -1,6 +1,7 @@
 # CreativeDiary(日記をつけるアプリ)
 
-<img width="1439" alt="f77f14a0-55f6-42bb-a76b-25932e8d4e26" src="https://user-images.githubusercontent.com/71686577/104153643-3505e000-5426-11eb-9d99-df939bae6c4e.png">
+<img width="1293" alt="スクリーンショット 2021-01-11 16 28 54" src="https://user-images.githubusercontent.com/71686577/104155276-2d483a80-542a-11eb-9660-8a1a4cd5b200.png">
+
 
 # アプリの概要
 共同開発をするなかで、お互いの情報共有の場は欠かせません。
