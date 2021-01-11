@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img width="1439" alt="f77f14a0-55f6-42bb-a76b-25932e8d4e26" src="https://user-images.githubusercontent.com/71686577/104153643-3505e000-5426-11eb-9d99-df939bae6c4e.png">
 
-Things you may want to cover:
+【アプリの概要】
+共同開発をするなかで、お互いの情報共有の場は欠かせません。
 
-* Ruby version
+開発では、毎日エラーが起き調べます。
+グーグルを使い調べ、毎回記事を3、4つ見ることがあります。
 
-* System dependencies
+多くの記事を読むことにより気づけば時間がかなり経過していています。
 
-* Configuration
+また、調べて解決した際の記事はメモしたいのですが、かなり量があります。
 
-* Database creation
+共同開発者同士で一番いいと思った記事を記録しそれを共有できれば、別の人が困った時、一番いい記事が見つけることができ、素早く問題解決につながります。
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+自分にとっても過去のものを記録することにより、再びのエラーを防ぐことができます。
