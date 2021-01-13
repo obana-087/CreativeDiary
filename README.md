@@ -61,6 +61,13 @@
 
 <br>
 
+# 実際の活用
+週に一回のペースで4人で勉強会を行っています。
+現在そのメンバーでReactとFirebaseを使ってマッチングアプリケーションを作っています。
+共同開発をする中でこのCreativeDiaryを活用しています。
+
+<br>
+
 # アプリURL
 https://ceratediary.herokuapp.com/
 
